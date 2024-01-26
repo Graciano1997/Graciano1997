@@ -7,9 +7,9 @@ Full-Stack Web Developer
 Currently, I am enrolled at Microverse, completing the full-stack remote software development program. I love coding because I come from a strong lineage: Bachelor's in Computer Engineering, fundamentals Basic cycle of engineering, high school degree in informatic, and META Coursera experiences.
 
 * 🌍  I'm based in Angola
-* 🖥️  I envite you to see my [Portfolio]([https://graciano1997.github.io/portofolio-graciano/](https://portofolio-graciano.vercel.app/))
+* 🖥️  I envite you to see my [Portfolio](https://portofolio-graciano.vercel.app/)
 * ✉️  You can contact me at [gracianomanuelhenrique@gmail.com](mailto:gracianomanuelhenrique@gmail.com)
-* 🚀  I'm currently working on [NARUTO LeaderBoard App](https://graciano1997.github.io/leaderboard/dist/)
+* 🚀  I'm currently working on [Hosanna Social Media](https://graciano1997.github.io/leaderboard/dist/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on All kind of projects
 * ⚡  Some nights I have dreams that I am coding please don't tell to anyone!

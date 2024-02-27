@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/Graciano1997/?logo=github&style=for
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/Graciano1997/Graciano1997/assets/88609043/fc54ccf3-0d08-4786-83ea-6b5579764938" width="36" height="36" alt="Ruby" /></a>
-<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://images.prismic.io//intuzwebsite/dae9747f-e9f5-4da6-81d6-b80d20964873_Ruby+On+Rails.png?w=1200&q=75&auto=format,compress&fm=png8" width="70" height="70" alt="Ruby on Rails" /></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://images.prismic.io//intuzwebsite/dae9747f-e9f5-4da6-81d6-b80d20964873_Ruby+On+Rails.png?w=1200&q=75&auto=format,compress&fm=png8" width="40" height="70" alt="Ruby on Rails" /></a>
 </p>
 
 

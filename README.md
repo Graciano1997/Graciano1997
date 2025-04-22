@@ -9,9 +9,6 @@ Currently, Looking for new roles and keep improving my best version day after da
 * 🧠  I'm learning TS
 * 🤝  I'm open to collaborating on All kinds of projects
 
-<a href="https://www.github.com/Graciano1997/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Graciano1997/?logo=github&style=for-the-badge&color=0891b2&labelColor=581c87" /></a>
-
 ### Skills
 
 

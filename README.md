@@ -30,7 +30,6 @@ Currently, Looking for new roles and keep improving my best version day after da
 
 <p align="left"> <a href="https://www.facebook.com/gracianomanuelhenrique" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Graciano1997/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Badges
 <div width="100%" align="center">
 
   <br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">

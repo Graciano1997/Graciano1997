@@ -7,20 +7,21 @@ Currently, Looking for new roles and keep improving my best version day after da
 * ✉️  You can contact me at [gracianomanuelhenrique@gmail.com](mailto:gracianomanuelhenrique@gmail.com)
 * 🚀  I'm currently working on [Hosanna POS]
 * 🧠  I'm learning TS
-* 🤝  I'm open to collaborating on All kinds of projects
+* 🤝  I'm open to collaborating on all kinds of projects
 
 ### Skills
 
 
 <p align="left">
-  ### 💻 Frontend  
+  
+  ### 💻 Frontend
   JavaScript • HTML5 • CSS3 • Sass • React & Redux • Figma • Tailwind
   
   ### 🛠️ Backend  
   Ruby on Rails • Node.js • PHP • MySQL • PostgreSQL
 
   ### 🔧 Tools  
-  Git • Webpack  
+  Git • Webpack   
 </p>
 
 

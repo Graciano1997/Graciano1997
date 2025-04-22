@@ -5,8 +5,8 @@ I'm **Graciano Henrique**, a passionate Full-Stack Developer 🚀
 Currently, Looking for new roles and keep improving my best version day after day 🧠.
 * 🖥️  I envite you to see my [Portfolio](https://portofolio-graciano.vercel.app/)
 * ✉️  You can contact me at [gracianomanuelhenrique@gmail.com](mailto:gracianomanuelhenrique@gmail.com)
-* 🚀  I'm currently working on [Hosanna Social Media](*Coming*)
-* 🧠  I'm learning C#,NodeJS
+* 🚀  I'm currently working on [Hosanna POS]
+* 🧠  I'm learning TS
 * 🤝  I'm open to collaborating on All kinds of projects
 
 <a href="https://www.github.com/Graciano1997/" target="_blank" rel="noreferrer"><img

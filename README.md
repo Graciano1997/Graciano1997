@@ -37,8 +37,7 @@ Currently, Looking for new roles and keep improving my best version day after da
 
 </div>
 
-<b>Top Repositories</b>
+### 📂 Top Projects
+Check out some of my top repositories pinned on my [GitHub profile](https://github.com/Graciano1997).
 
-<div width="100%" align="center">
-<img src="down.gif">
 </div><br /><br /><br /><br /><br /><br /><br />

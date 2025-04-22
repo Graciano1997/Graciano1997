@@ -31,10 +31,6 @@ Currently, Looking for new roles and keep improving my best version day after da
 <p align="left"> <a href="https://www.facebook.com/gracianomanuelhenrique" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Graciano1997/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/Graciano1997/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graciano1997/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <div width="100%" align="center">
 
   <br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">

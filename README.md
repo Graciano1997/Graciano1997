@@ -2,7 +2,7 @@
 I'm **Graciano Henrique**, a passionate Full-Stack Developer 🚀
 -----------------------
 
-Currently, Looking for new roles and keep improving my best version day after day 🧠
+Currently, looking for new roles and keep improving my best version day after day 🧠
 * 🖥️  I envite you to see my [Portfolio](https://portofolio-graciano.vercel.app/)
 * ✉️  You can contact me at [gracianomanuelhenrique@gmail.com](mailto:gracianomanuelhenrique@gmail.com)
 * 🚀  I'm currently working on [Hosanna POS]

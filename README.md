@@ -5,27 +5,25 @@ I'm **Graciano Henrique**, a passionate Full-Stack Developer 🚀
 -----------------------
 
 Currently, looking for new roles and keep improving my best version day after day 🧠
-* 🖥️  I envite you to see my [Portfolio](https://portofolio-graciano.vercel.app/)
+* 🖥️  I invite you to see my [Portfolio](https://portofolio-graciano.vercel.app/)
 * ✉️  You can contact me at [gracianomanuelhenrique@gmail.com](mailto:gracianomanuelhenrique@gmail.com)
-* 🚀  I'm currently working on [Hosanna POS]
+* 🚀  I'm currently working on [Hosanna SalePoint App]
 * 🧠  I'm learning TS
 * 🤝  I'm open to collaborating on all kinds of projects
 
 ### Skills
 
-
 <p align="left">
   
   ### 💻 Frontend
-  JavaScript • HTML5 • CSS3 • Sass • React & Redux • Figma • Tailwind
+  • JavaScript • HTML • CSS • Tailwind • React & Redux • Figma 
   
   ### 🛠️ Backend  
-  Ruby on Rails • Node.js • PHP • MySQL • PostgreSQL
+  • Ruby on Rails • Node.js • Python • PHP • MySQL • PostgreSQL
 
   ### 🔧 Tools  
-  Git • Webpack   
+  Git • Webpack
 </p>
-
 
 ### Socials
 

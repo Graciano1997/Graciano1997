@@ -1,6 +1,6 @@
 ![Banner](https://drive.google.com/uc?export=view&id=1Cz3VMeO0fjgD9sdakh3g_g3N5fI19HYK)
 
-## 👋 Hi there!  
+## 👋 Hi everyone!  
 I'm **Graciano Henrique**, a passionate Full-Stack Developer 🚀
 -----------------------
 

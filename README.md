@@ -37,7 +37,17 @@ Currently, looking for new roles and keep improving my best version day after da
 
 </div>
 
+### Individuals & Hobbies
+
+* ➗ Passionate about Math.
+* 🎧 Music lover.
+* 👨‍👧💙 A simple Father.
+* 🍳 Cooking enthusiast.
+*  🎮 Gamer (sometimes 😄).
+
+ 
 ### 📂 Top Projects
 Check out some of my top repositories pinned on my [GitHub profile](https://github.com/Graciano1997).
 
 </div><br /><br /><br /><br /><br /><br /><br />
+
